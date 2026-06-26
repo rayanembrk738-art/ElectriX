@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python caches, if helper scripts are used locally
+__pycache__/
+*.py[cod]
+
+# Build folders
+build/
+dist/
